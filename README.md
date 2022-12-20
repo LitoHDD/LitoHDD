@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LitoHDD
+- 👀 I'm interested in web development and programming
+- 🌱 I am currently learning web development and programming in other languages
+- 💞️ I seek to collaborate in any project in order to learn and develop my career
+- 📫 How to reach me can be done by email
